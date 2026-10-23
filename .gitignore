@@ -1,0 +1,13 @@
+# Ambiente virtual
+.venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Dados gerados pela aplicação
+chamados.json
+
+# Configurações locais
+.env
